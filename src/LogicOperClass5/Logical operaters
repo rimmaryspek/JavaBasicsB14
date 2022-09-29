@@ -1,0 +1,72 @@
+Logical Operators
+
+Assignment operator; =
+Arithmetic'+,/,*,%,- 
+Relational 
+; --> conclude
+> --> greater then
+>= --> greater then or equal to
+<--> less then
+<= less then equal to
+/= not equal to
+
+Logical And &&
+
+true&&true -->True
+true&&false-->false
+false&&true--> false
+false&&false -->false
+
+
+
+Logical OR ||
+
+
+true||true -->True
+true||false-->true
+false||true--> true
+false||false -->false
+
+
+1. Prompt the user to enter person heights in inches. Person should be classified as one of the following:
+• short (under 60 inch)
+• medium(between 60 -72 inch)
+• tall (over 72 inch)
+
+
+2. Write a program that will print whether it is a weekend or weekday. If any day from 1-5 → output “It is a weekday”, anyday from 6-7 → output “It is a weekend”, any other day → output “Invalid day”
+
+3. Ask user to enter a number and then define if number is small, medium or large
+Small number is value between 1 and 10
+Medium number is value between 11 and 100
+Large number is value between 101 and 1000
+
+HomeWork1
+ 1. Write a program that will ask user to input inputs the current time (use 24 hour format).
+Based on the given time define:
+if hour is between 1-11 --> Morning
+if hour between 12-15 --> Afternoon
+if hour between 16-20 --> Evening
+if hour between 21-24 --> Night
+
+HomeWork2
+2. Write a program for user to enter his/hers birth month. Based on the month define the season.
+Example: if user is born in March, April, May → season =”Spring” 
+if user is born in June, July, August → 
+season =”Summer”  etc …
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

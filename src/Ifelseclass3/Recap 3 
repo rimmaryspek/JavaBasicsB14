@@ -1,0 +1,46 @@
+Type casting.
+Type casting is converting the type of dt from dt to another one.
+WE HAVE TWO types of type casting 
+1) explicit/narrowing/ manual -- converting with the help of ()
+2) Implicit/ windenin / Automatic--when we go from a bigger dt to smaller.
+Byte (8 binary)
+Short (16 bits) char also 16 bits
+int (32 bits)
+long (64)
+float(32)
+double (64)
+
+
+what is the syntax of the 
+=====================================================
+if statements.
+If else condition.
+
+public static void main(String[] args) {
+        -----If condition------
+        boolean rich=true;
+        System.out.println("Lets buy some eggs for breakfast");
+        int money=5000000;
+        if(money>300000)
+        {
+        System.out.println("Lets buy a Jet or Island");
+        }
+
+        System.out.println("Lets buy some milk for breakfast");
+
+    }
+    -------if else conditions --------
+    public static void main(String[] args) {
+
+        String userName="Admin";
+        String password="password";
+        if(password.equals("password123"))
+        {
+            System.out.println("Welcome "+userName);
+        }
+        else
+        {
+            System.out.println("Wrong password "+userName);
+        }
+
+    }

@@ -1,0 +1,51 @@
+// Type casting => type = date type casting =>converting
+		// converting one date type to another
+		// why do we use type casting? to use someone's existing code 
+		//What is the syntax foe type casting.
+		// when we convert something smaller to large we won't get any error
+		//If we converting large dt to small dt then
+		// we can convert long(DT) to short(DT)
+		// Casting or converting is only primitives 
+		// 
+		int box=123;
+long b1=box; // this is called implicit or widening automatic/ explicit/automating type casting-- when java java converts the dt automatically for us it only happens when we assgn a smaller dt to a larger dt.
+		
+/*Explicit/narrowing/manual type casting: 
+when we convert a large dt to a smaller dt its call of the above. it does't not happen automatically we have to do it explicitly
+Manually.
+	why we should be leaning type casting ?	 
+When we write a code a our real life most the we use the code from others to save time.and we might also need to convert the date type to make out code compatible.
+what is the syntax for date casting?
+we use (parentessence)and the () we write the destination dt to F.Ex long var1=250; int var2=(int)var1: -- its Explicit/N/M
+double va3=var2;/-----/ Implicit/widening /automatic.
+
+float f=250.5f;
+double d=f; Implicit/widening /automatic.
+
+===============================================================
+if else conditions;
+  If else conditions can help us write a code that can take a decision based on date.
+Because when we are solving a real problem like testing on a web site, our programs need to make a lots of decisions.
+If (the program username and password matches)
+{go to home page} else {give user a warning}
+what is the syntax for if else conditions.
+boolean ishungry=true;
+if(ishungry) {
+systom.out.println(Please eat something);
+}else{
+system.out.println.(lets build some java program);
+
+=================================================
+Nested if Conditions:
+
+
+Loops - is a statement that repeat same code too many times.
+
+int time=12;
+system.out.print
+
+
+
+
+
+
